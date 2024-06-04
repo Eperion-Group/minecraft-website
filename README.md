@@ -34,7 +34,7 @@ git clone https://github.com/Justin-City/minecraft-website
 
 ## Contributing
 
-Contributions to the SummerCraft website are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. Please ensure that your code follows the existing coding style and conventions. 
+Contributions to the Justin City website are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. Please ensure that your code follows the existing coding style and conventions. 
 
 <br>
 
