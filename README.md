@@ -11,7 +11,7 @@ This repository contains the code for the Justin City Website, which serves as t
 - Features
 - Usage
 - Contributing
-- License
+
 
 ## Introduction
 
@@ -39,6 +39,5 @@ Contributions to the Justin City website are welcome! If you have any improvemen
 <br>
 
 <div align="center">
-	<img src="background.png>
 	<h4>Justin City 2024</h4>
 </div>	
