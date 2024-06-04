@@ -39,6 +39,6 @@ Contributions to the SummerCraft website are welcome! If you have any improvemen
 <br>
 
 <div align="center">
-	<img src="https://github.com/Justin-City/minecraft-website/background.png width="40">
+	<img src="background.png width="40">
 	<h4>Justin City 2024</h4>
 </div>	
