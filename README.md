@@ -14,6 +14,9 @@ This repository contains the code for the Justin City Website, which serves as t
 
 
 ## Introduction
+Site Status [![Netlify Status](https://api.netlify.com/api/v1/badges/e46d83cd-4dbc-4575-8c7b-265bd2ab0ebf/deploy-status)](https://app.netlify.com/sites/justincity/deploys)
+
+Website https://justincity.netlify.app/ 
 
 The Justin City website is built using HTML, CSS, and JavaScript. It features a responsive design that ensures a consistent experience across different devices. The website includes a navigation bar, a main content section, and a footer.
 
